@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "WA_Treinamento_model (VAR) [WA_TREINAMENTO]", "WA_Treinamento_model\WA_Treinamento_model.rnrproj", "{83585D0E-8DBE-4ECB-962C-8F0A829B29C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83585D0E-8DBE-4ECB-962C-8F0A829B29C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83585D0E-8DBE-4ECB-962C-8F0A829B29C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63406331-5FB6-4561-A45F-196611A19675}
+	EndGlobalSection
+EndGlobal
